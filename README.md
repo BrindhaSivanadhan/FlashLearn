@@ -56,7 +56,7 @@ This runs [add-sample-episodes.ts](file:///c:/development/flashlearn/flashlearn/
 
 ---
 
-### Step 4: Start the Dev Server
+### Step 4: Start the Dev Server,
 
 ```bash
 npm run dev
