@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First,
 
 ```bash
-npm install
+npm install  
 ```
 # Connecting FlashLearn to a New Weaviate Cloud Account
 
